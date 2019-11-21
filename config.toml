@@ -1,6 +1,6 @@
 baseURL = "https://betsy0.com/"
 languageCode = "zh-cn"
-title = "Y4er的博客 | 伪程序员,信安爱好者,专注于网络攻防和信息安全"
+title = "Betsy0的博客 | 伪程序员,信安爱好者,专注于网络攻防和信息安全"
 theme = "easybook"
 
 pygmentsCodefences = true
@@ -33,15 +33,15 @@ googleAnalytics = "UA-131218098-1"      # UA-XXXXXXXX-X
 
 # 站点信息
 [params]
-  author = "Y4er"
+  author = "Betsy0"
   whoami = "哀吾生之须臾,羡长江之无穷."
   avatar = "https://avatars1.githubusercontent.com/u/40487319?s=460&v=4"
-  keywords = ["Y4er","信息安全","网络安全","红蓝攻防","渗透测试","bypass","waf","注入","黑客","chabug"]
+  keywords = ["Betsy0","信息安全","网络安全","红蓝攻防","渗透测试","bypass","注入","黑客"]
   description = "伪程序员,信安爱好者,专注于网络攻防和信息安全."
 
   [params.social]
-    GitHub = "http://github.com/Y4er"
-    Email = "mailto:admin@chabug.org"
+#    GitHub = "http://github.com/Y4er"
+#    Email = "mailto:admin@chabug.org"
   [params.utterances]       # https://utteranc.es/
     owner = "Y4er"              # Your GitHub ID
     repo = "Y4er.com"               # The repo to store comments
