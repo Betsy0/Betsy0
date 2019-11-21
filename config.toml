@@ -26,15 +26,11 @@ googleAnalytics = "UA-131218098-1"      # UA-XXXXXXXX-X
   name = "About"
   weight = 40
   url = "/about"
-[[menu.main]]
-  name = "ChaBug"
-  weight = 50
-  url = "http://www.chabug.org"
 
 # 站点信息
 [params]
   author = "Betsy0"
-  whoami = "哀吾生之须臾,羡长江之无穷."
+  whoami = "冬天来了，你是选择冷死还是跟我在一起."
   avatar = "https://avatars1.githubusercontent.com/u/40487319?s=460&v=4"
   keywords = ["Betsy0","信息安全","网络安全","红蓝攻防","渗透测试","bypass","注入","黑客"]
   description = "伪程序员,信安爱好者,专注于网络攻防和信息安全."
