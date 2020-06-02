@@ -7,15 +7,8 @@ comment: false
 <center>
 ![](https://avatars1.githubusercontent.com/u/40487319?s=460&v=4)
 
-ID：`Y4er`
+ID：`Betsy`
 
-团  队：[`ChaBug`](http://www.chabug.org/)
-
-Email：`admin[@]chabug.org`
-
-Github：  [Y4er](http://github.com/Y4er)
-
-学历：专科 (计应 · 在读)
 
 </center>
 
